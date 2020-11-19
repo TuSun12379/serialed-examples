@@ -1,7 +1,7 @@
 # Serial Electron Diffraction Data Processing
 Notebooks and scripts for serial electron diffraction analysis using diffractem v0.3.3 or higher (https://github.com/robertbuecker/diffractem) and CrystFEL (https://www.desy.de/~twhite/crystfel/). For the latter, you will need the electron diffraction-enabled version from https://stash.desy.de/projects/MPSDED/repos/crystfel/browse.
 
-Get the required raw data at https://empiar.org via the accession code `EMPIAR-10542`
+Get the required raw data at https://empiar.org via the accession code `EMPIAR-10542`, or from MPDL Edmond at https://edmond.mpdl.mpg.de/imeji/collection/32lI6YJ7DZaF5L_K.
 
 The example Jupyter notebooks include:
 * `preprocessing.ipynb` - Sorting, movie summation, data viewing, center and peak finding, image artifact correction, background subtraction, creation of intermediate files for indexing.
